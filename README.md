@@ -1,16 +1,26 @@
-## Hi there 👋
+# Yusufcan Adıgüzel
 
-<!--
-**yusufcanadiguzel/yusufcanadiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yusufcanadiguzel/) 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-yusufcanadiguzel-black)](https://github.com/yusufcanadiguzel)
 
-Here are some ideas to get you started:
+## About Me
+My name is **Yusufcan Adıgüzel**, and I am a passionate software developer with a strong background in backend development and game development. My journey into the world of software began in high school, and I have since continued to expand my knowledge in various software development fields, particularly in **.Net** and **Flutter** technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that solve real-world problems, and I have experience working with a wide array of programming languages and frameworks.
+
+## Education
+- **Anadolu University** - Bachelor in Management Information Systems (Expected Graduation: 2026)
+- **İstanbul Nişantaşı University** - Associate Degree in Computer Programming (Graduation: 2020)
+- **İstanbul Ayvansaray University** - Associate Degree in Banking and Insurance
+- **Patika+** - Back-End Web Development Bootcamp (Graduation: 2024)
+- **İstanbul Kodluyor** - Flutter Bootcamp (Graduation: 2024)
+
+## Skills
+- **Programming Languages**: C#, Dart, Java, SQL
+- **Technologies/Frameworks**: .Net, EF Core, Git, Flutter, Firebase, Unity, HTML, CSS
+- **Languages**: Turkish (Native), English (B1)
+
+## Contact Me
+- **Email**: yusufcanadgzl@outlook.com
+- **Linkedin**: [yusufcanadiguzel](https://www.linkedin.com/in/yusufcanadiguzel/)
+- **Medium**: [yusufcanadiguzel](https://medium.com/@yusufcanadiguzel)
