@@ -21,6 +21,4 @@ I enjoy building projects that solve real-world problems, and I have experience 
 - **Languages**: Turkish (Native), English (B1)
 
 ## Contact Me
-- **Email**: yusufcanadgzl@outlook.com
-- **Linkedin**: [yusufcanadiguzel](https://www.linkedin.com/in/yusufcanadiguzel/)
 - **Medium**: [yusufcanadiguzel](https://medium.com/@yusufcanadiguzel)
