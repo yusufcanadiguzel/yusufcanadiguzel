@@ -1,7 +1,6 @@
 # Yusufcan Adıgüzel
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yusufcanadiguzel/) 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-yusufcanadiguzel-black)](https://github.com/yusufcanadiguzel)
 
 ## About Me
 My name is **Yusufcan Adıgüzel**, and I am a passionate software developer with a strong background in backend development and game development. My journey into the world of software began in high school, and I have since continued to expand my knowledge in various software development fields, particularly in **.Net** and **Flutter** technologies.
