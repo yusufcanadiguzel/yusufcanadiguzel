@@ -9,8 +9,8 @@ I enjoy building projects that solve real-world problems, and I have experience 
 
 ## Education
 - **Anadolu University** - Bachelor in Management Information Systems (Expected Graduation: 2026)
-- **İstanbul Nişantaşı University** - Associate Degree in Computer Programming (Graduation: 2020)
-- **İstanbul Ayvansaray University** - Associate Degree in Banking and Insurance
+- **İstanbul Nişantaşı University** - Associate Degree in Banking and Insurance
+- **İstanbul Ayvansaray University** -  Associate Degree in Computer Programming (Graduation: 2020)
 - **Patika+** - Back-End Web Development Bootcamp (Graduation: 2024)
 - **İstanbul Kodluyor** - Flutter Bootcamp (Graduation: 2024)
 
